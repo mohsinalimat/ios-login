@@ -7,23 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB298CFD24196EC7002BA62C /* LoginButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB298CFC24196EC7002BA62C /* LoginButton.swift */; };
+		CB298CFF24198728002BA62C /* SignUpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB298CFE24198728002BA62C /* SignUpButton.swift */; };
+		CB298D232419DFD8002BA62C /* BlobViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB298D222419DFD8002BA62C /* BlobViews.swift */; };
 		CB4E67532417F80C00E76153 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67522417F80C00E76153 /* AppDelegate.swift */; };
 		CB4E67552417F80C00E76153 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67542417F80C00E76153 /* SceneDelegate.swift */; };
-		CB4E67572417F80D00E76153 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67562417F80D00E76153 /* ViewController.swift */; };
-		CB4E675A2417F80D00E76153 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB4E67582417F80D00E76153 /* Main.storyboard */; };
+		CB4E67572417F80D00E76153 /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67562417F80D00E76153 /* LoginPage.swift */; };
 		CB4E675C2417F80E00E76153 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB4E675B2417F80E00E76153 /* Assets.xcassets */; };
-		CB4E675F2417F80E00E76153 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB4E675D2417F80E00E76153 /* LaunchScreen.storyboard */; };
+		CB4E676A2417FCF400E76153 /* UsernameTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67692417FCF400E76153 /* UsernameTF.swift */; };
+		CB4E676C2417FD2F00E76153 /* PasswordTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E676B2417FD2F00E76153 /* PasswordTF.swift */; };
+		CB4E67712418093E00E76153 /* LoginPage Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67702418093E00E76153 /* LoginPage Extension.swift */; };
+		CB4E677324180A9200E76153 /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E677224180A9200E76153 /* AppColors.swift */; };
+		CB4E67752418171800E76153 /* ContinueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E67742418171800E76153 /* ContinueButton.swift */; };
+		CB4E677724183A2A00E76153 /* SlideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4E677624183A2A00E76153 /* SlideView.swift */; };
+		CB5BA26A241D57ED00D2E8E8 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5BA269241D57ED00D2E8E8 /* MainView.swift */; };
+		CB5FEC45241EFEF2009B49C2 /* InfoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB5FEC44241EFEF2009B49C2 /* InfoPage.swift */; };
+		CBB3B4A6241C3E6B00A099A3 /* ActivityLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB3B4A5241C3E6B00A099A3 /* ActivityLine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CB298CFC24196EC7002BA62C /* LoginButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginButton.swift; sourceTree = "<group>"; };
+		CB298CFE24198728002BA62C /* SignUpButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpButton.swift; sourceTree = "<group>"; };
+		CB298D222419DFD8002BA62C /* BlobViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlobViews.swift; sourceTree = "<group>"; };
 		CB4E674F2417F80C00E76153 /* ios-login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-login.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB4E67522417F80C00E76153 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB4E67542417F80C00E76153 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		CB4E67562417F80D00E76153 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CB4E67592417F80D00E76153 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CB4E67562417F80D00E76153 /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
 		CB4E675B2417F80E00E76153 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CB4E675E2417F80E00E76153 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB4E67602417F80E00E76153 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB4E67692417FCF400E76153 /* UsernameTF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsernameTF.swift; sourceTree = "<group>"; };
+		CB4E676B2417FD2F00E76153 /* PasswordTF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordTF.swift; sourceTree = "<group>"; };
+		CB4E67702418093E00E76153 /* LoginPage Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LoginPage Extension.swift"; sourceTree = "<group>"; };
+		CB4E677224180A9200E76153 /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
+		CB4E67742418171800E76153 /* ContinueButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinueButton.swift; sourceTree = "<group>"; };
+		CB4E677624183A2A00E76153 /* SlideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideView.swift; sourceTree = "<group>"; };
+		CB5BA269241D57ED00D2E8E8 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		CB5FEC44241EFEF2009B49C2 /* InfoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPage.swift; sourceTree = "<group>"; };
+		CBB3B4A5241C3E6B00A099A3 /* ActivityLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityLine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +78,63 @@
 			children = (
 				CB4E67522417F80C00E76153 /* AppDelegate.swift */,
 				CB4E67542417F80C00E76153 /* SceneDelegate.swift */,
-				CB4E67562417F80D00E76153 /* ViewController.swift */,
-				CB4E67582417F80D00E76153 /* Main.storyboard */,
-				CB4E675B2417F80E00E76153 /* Assets.xcassets */,
-				CB4E675D2417F80E00E76153 /* LaunchScreen.storyboard */,
 				CB4E67602417F80E00E76153 /* Info.plist */,
+				CB4E67682417FCCA00E76153 /* Controllers */,
+				CB4E67662417FBA600E76153 /* LoginViews */,
+				CB4E676D2418044F00E76153 /* Design Tools + Extensions */,
+				CB62082C242032C90001FF7E /* Model */,
+				CB4E67672417FCB700E76153 /* Assets */,
 			);
 			path = "ios-login";
+			sourceTree = "<group>";
+		};
+		CB4E67662417FBA600E76153 /* LoginViews */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E67692417FCF400E76153 /* UsernameTF.swift */,
+				CB4E676B2417FD2F00E76153 /* PasswordTF.swift */,
+				CB4E67742418171800E76153 /* ContinueButton.swift */,
+				CB4E677624183A2A00E76153 /* SlideView.swift */,
+				CB298CFC24196EC7002BA62C /* LoginButton.swift */,
+				CB298CFE24198728002BA62C /* SignUpButton.swift */,
+				CB298D222419DFD8002BA62C /* BlobViews.swift */,
+				CBB3B4A5241C3E6B00A099A3 /* ActivityLine.swift */,
+				CB5BA269241D57ED00D2E8E8 /* MainView.swift */,
+			);
+			path = LoginViews;
+			sourceTree = "<group>";
+		};
+		CB4E67672417FCB700E76153 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E675B2417F80E00E76153 /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		CB4E67682417FCCA00E76153 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E67562417F80D00E76153 /* LoginPage.swift */,
+				CB5FEC44241EFEF2009B49C2 /* InfoPage.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CB4E676D2418044F00E76153 /* Design Tools + Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				CB4E67702418093E00E76153 /* LoginPage Extension.swift */,
+				CB4E677224180A9200E76153 /* AppColors.swift */,
+			);
+			path = "Design Tools + Extensions";
+			sourceTree = "<group>";
+		};
+		CB62082C242032C90001FF7E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB4E675F2417F80E00E76153 /* LaunchScreen.storyboard in Resources */,
 				CB4E675C2417F80E00E76153 /* Assets.xcassets in Resources */,
-				CB4E675A2417F80D00E76153 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,32 +206,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB4E67572417F80D00E76153 /* ViewController.swift in Sources */,
+				CB4E67572417F80D00E76153 /* LoginPage.swift in Sources */,
+				CB5BA26A241D57ED00D2E8E8 /* MainView.swift in Sources */,
+				CB4E67752418171800E76153 /* ContinueButton.swift in Sources */,
+				CBB3B4A6241C3E6B00A099A3 /* ActivityLine.swift in Sources */,
+				CB4E676A2417FCF400E76153 /* UsernameTF.swift in Sources */,
+				CB5FEC45241EFEF2009B49C2 /* InfoPage.swift in Sources */,
 				CB4E67532417F80C00E76153 /* AppDelegate.swift in Sources */,
+				CB298D232419DFD8002BA62C /* BlobViews.swift in Sources */,
+				CB4E677324180A9200E76153 /* AppColors.swift in Sources */,
+				CB298CFD24196EC7002BA62C /* LoginButton.swift in Sources */,
 				CB4E67552417F80C00E76153 /* SceneDelegate.swift in Sources */,
+				CB4E677724183A2A00E76153 /* SlideView.swift in Sources */,
+				CB4E676C2417FD2F00E76153 /* PasswordTF.swift in Sources */,
+				CB4E67712418093E00E76153 /* LoginPage Extension.swift in Sources */,
+				CB298CFF24198728002BA62C /* SignUpButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		CB4E67582417F80D00E76153 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CB4E67592417F80D00E76153 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		CB4E675D2417F80E00E76153 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CB4E675E2417F80E00E76153 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		CB4E67612417F80E00E76153 /* Debug */ = {
