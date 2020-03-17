@@ -8,6 +8,13 @@
 
 ## More smooth animations are [here](https://www.youtube.com/playlist?list=PLEQeF1iTMw4x9f17DO2w-wPBJqCMZvRT1)
 
+## Requirements
+- Xcode version 11.3.1
+- Swift 5
+- iPhone 8 or higher
+- iOS 13.0+
+
+
 Inspired by [Johny vino™](https://dribbble.com/shots/5580777-Login-Interaction) design.
 
 ## License
