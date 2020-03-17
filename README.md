@@ -1,8 +1,9 @@
 ## License
 
 ### Demo
-<img src="art/startAnim.gif" align="left"> <img src="art/finalAnim.gif align="center"> 
-<img src="art/keyboardHandling.gif" align="right">
+<img src="art/startAnim.gif" align="left" height="600"> 
+<img src="art/finalAnim.gif align="center" height="600"> 
+<img src="art/keyboardHandling.gif" align="right" height="600">
 <img src="art/signIn.png" height="600" align="left">
 <img src="art/signUp.png" height="600" align="center">
 <img src="art/info.png" height="600" align="right">
