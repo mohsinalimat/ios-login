@@ -108,7 +108,7 @@ class PasswordTF: UITextField {
         textfield.autocapitalizationType = .none
         textfield.autocorrectionType = .no
         textfield.textContentType = .oneTimeCode
-        textfield.isSecureTextEntry = true
+        textfield.isSecureTextEntry = true 
     }
     
     private func handleAnimation() {
