@@ -6,7 +6,10 @@
 <img src="art/signUp.png" height="600" align="center">
 <img src="art/info.png" height="600" align="right">
 
+## More smooth animations are [here](https://www.youtube.com/playlist?list=PLEQeF1iTMw4x9f17DO2w-wPBJqCMZvRT1)
+
 Inspired by [Johny vino™](https://dribbble.com/shots/5580777-Login-Interaction) design.
+
 ## License
 ```
 Copyright 2020 VITALIY PALIY
