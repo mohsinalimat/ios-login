@@ -1,14 +1,13 @@
-## License
 
 ### Demo
-<img src="art/startAnim.gif" align="left" height="600"> <img src="art/finalAnim.gif" align="center" height="600"> 
-<img src="art/keyboardHandling.gif" align="right" height="600">
+<img src="art/startAnim.gif" align="left" height="600"> <img src="art/finalAnim.gif" align="right" height="600"> 
+<img src="art/keyboardHandling.gif" align="left" height="600">
 <img src="art/signIn.png" height="600" align="left">
 <img src="art/signUp.png" height="600" align="center">
 <img src="art/info.png" height="600" align="right">
 
-
 Inspired by [Johny vino™](https://dribbble.com/shots/5580777-Login-Interaction) design.
+## License
 ```
 Copyright 2020 VITALIY PALIY
 
